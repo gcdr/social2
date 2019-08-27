@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Glen Ritchie"
-categories: facts
+categories: personal
 tags: [sample]
 image: cuba-4.jpg
 ---
